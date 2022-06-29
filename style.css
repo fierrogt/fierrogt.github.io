@@ -1,5 +1,6 @@
 	body
 	{
+		margin-top:40px;
 		background-color: #000;
                 height: 4000px;
 	}
@@ -9,8 +10,8 @@
 	{
 		background-color: #222;
 		color: #fff;
-		height: 280px;
-		line-height: 280px;
+		height: 320px;
+		line-height: 320px;
 		width: 90vw;
 		margin: 5px auto;
 		padding: 5px;
@@ -50,8 +51,8 @@
 	{
 		background-color: #222;
 		color: #fff;
-		height: 120px;
-		line-height: 120px;
+		height: 140px;
+		line-height: 140px;
 		width: 90vw;
 		margin: 5px auto;
 		padding: 5px;
@@ -62,11 +63,11 @@
 	.sub_title
 	{
 		color: #eee;
-		width: 40%;
+		width: 55%;
 		float: left;
 		font-family: 'Oswald', sans-serif;
 		font-weight: 200;
-		font-size: 80px;
+		font-size: 95px;
 					padding-left: 10px;
 		  display: table-cell;
 			vertical-align: middle;
@@ -80,7 +81,7 @@
 		font-family: 'Oswald', sans-serif;
 		font-weight: 400;
 		padding-right: 10px;
-		font-size: 80px;
+		font-size: 95px;
 		  display: table-cell;
 			vertical-align: middle;
 	}			
