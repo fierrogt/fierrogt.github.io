@@ -27,15 +27,14 @@
 		font-family: 'Oswald', sans-serif;
 		font-weight: 200;
 		font-size: 110px;
-					padding-left: 10px;
-		  display: table-cell;
-			vertical-align: middle;
+		padding-left: 10px;
+		display: table-cell;
+	        vertical-align: middle;
 	}
 	.main_time
 	{
 		text-align: right;
-		width: 40%;
-		float: right;
+		width: 96vw;
 		color: #ccc;
 		font-family: 'Oswald', sans-serif;
 		font-weight: 400;
