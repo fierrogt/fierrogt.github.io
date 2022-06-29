@@ -9,8 +9,8 @@
 	{
 		background-color: #222;
 		color: #fff;
-		height: 160px;
-		line-height: 160px;
+		height: 400px;
+		line-height: 400px;
 		width: 90vw;
 		margin: 5px auto;
 		padding: 5px;
@@ -25,7 +25,7 @@
 		float: left;
 		font-family: 'Oswald', sans-serif;
 		font-weight: 200;
-		font-size: 70px;
+		font-size: 140px;
 					padding-left: 10px;
 		  display: table-cell;
 			vertical-align: middle;
@@ -39,7 +39,7 @@
 		font-family: 'Oswald', sans-serif;
 		font-weight: 400;
 		padding-right: 10px;
-		font-size: 70px;
+		font-size: 140px;
 		  display: table-cell;
 			vertical-align: middle;
 	}			
@@ -50,8 +50,8 @@
 	{
 		background-color: #222;
 		color: #fff;
-		height: 80px;
-		line-height: 80px;
+		height: 120px;
+		line-height: 120px;
 		width: 90vw;
 		margin: 5px auto;
 		padding: 5px;
@@ -66,7 +66,7 @@
 		float: left;
 		font-family: 'Oswald', sans-serif;
 		font-weight: 200;
-		font-size: 40px;
+		font-size: 80px;
 					padding-left: 10px;
 		  display: table-cell;
 			vertical-align: middle;
@@ -80,7 +80,7 @@
 		font-family: 'Oswald', sans-serif;
 		font-weight: 400;
 		padding-right: 10px;
-		font-size: 40px;
+		font-size: 80px;
 		  display: table-cell;
 			vertical-align: middle;
 	}			
