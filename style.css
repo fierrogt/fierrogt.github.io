@@ -40,7 +40,8 @@
 		font-family: 'Oswald', sans-serif;
 		font-weight: 400;
 		padding-right: 10px;
-		font-size: 110px;
+		font-size: 200px;
+		text-align: center;
 		  display: table-cell;
 			vertical-align: middle;
 	}			
