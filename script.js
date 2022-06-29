@@ -1,22 +1,7 @@
+$('#clock').fitText(1.3);
 
-"use strict";
- 
-new Vue({
-  el: "#app",
-  data: {
-    message: "Current Time:",
-    currentTime: null
-  },
-  methods: {
-    updateCurrentTime() {
-      this.currentTime = moment().format("LTS");
-    }
- 
-  },
- 
-  created() {
-    this.currentTime = moment().format("LTS");
-    setInterval(() => this.updateCurrentTime(), 1 * 1000);
-  }
- 
-});
+function update() {
+  $('#clock').html(moment().format('D. MMMM YYYY H:mm:ss'));
+}
+
+setInterval(update, 1000);
